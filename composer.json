@@ -1,16 +1,7 @@
 {
-  "name": "tengo/test",
+  "name": "feedonomics/transformers",
   "type": "library",
-  "description": "asdasd",
-  "keywords": [
-    "framework",
-    "http",
-    "rest",
-    "web service",
-    "curl",
-    "client",
-    "HTTP client"
-  ],
+  "description": "Transformers",
   "minimum-stability": "dev",
   "homepage": "http://guzzlephp.org/",
   "license": "MIT",
@@ -32,7 +23,7 @@
   },
   "autoload": {
     "files": [
-      "packages/tengo/test.txt"
+      "index.php"
     ]
   }
 }

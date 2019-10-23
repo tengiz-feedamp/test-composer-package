@@ -11,6 +11,7 @@
     "client",
     "HTTP client"
   ],
+  "minimum-stability": "dev",
   "homepage": "http://guzzlephp.org/",
   "license": "MIT",
   "authors": [

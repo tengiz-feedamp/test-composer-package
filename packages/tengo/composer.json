@@ -1,11 +1,37 @@
 {
-  "repositories": [
+  "name": "tengo/test",
+  "type": "library",
+  "description": "asdasd",
+  "keywords": [
+    "framework",
+    "http",
+    "rest",
+    "web service",
+    "curl",
+    "client",
+    "HTTP client"
+  ],
+  "homepage": "http://guzzlephp.org/",
+  "license": "MIT",
+  "authors": [
     {
-      "type": "path",
-      "url": "../../packages/tengo"
+      "name": "Michael Dowling",
+      "email": "mtdowling@gmail.com",
+      "homepage": "https://github.com/mtdowling"
     }
   ],
   "require": {
-    "tengo/test": "*"
+    "php": ">=5.5"
+  },
+  "require-dev": {
+    "ext-curl": "*"
+  },
+  "config": {
+    "sort-packages": true
+  },
+  "autoload": {
+    "files": [
+      "tengo/test.txt"
+    ]
   }
 }

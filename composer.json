@@ -2,7 +2,7 @@
   "name": "feedonomics/model_document",
   "type": "library",
   "description": "some descr",
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "homepage": "http://guzzlephp.org/",
   "license": "MIT",
   "authors": [

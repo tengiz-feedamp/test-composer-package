@@ -1,22 +1,18 @@
 {
   "name": "feedonomics/transformers",
   "type": "library",
-  "description": "Transformers",
+  "description": "Some description",
   "minimum-stability": "dev",
-  "homepage": "http://guzzlephp.org/",
-  "license": "MIT",
+  "homepage": "https://feedonomics.com/",
+  "license": "proprietary",
   "authors": [
     {
-      "name": "Michael Dowling",
-      "email": "mtdowling@gmail.com",
-      "homepage": "https://github.com/mtdowling"
+      "name": "Tengiz",
+      "email": "tengiz@feedonomics.com"
     }
   ],
   "require": {
-    "php": ">=7.4"
-  },
-  "config": {
-    "sort-packages": true
+    "php": ">=7.0"
   },
   "autoload": {
     "files": [

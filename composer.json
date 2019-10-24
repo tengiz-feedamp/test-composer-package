@@ -13,10 +13,7 @@
     }
   ],
   "require": {
-    "php": ">=5.5"
-  },
-  "require-dev": {
-    "ext-curl": "*"
+    "php": ">=7.4"
   },
   "config": {
     "sort-packages": true
